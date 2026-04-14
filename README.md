@@ -39,4 +39,4 @@ pix2pix uses Conditional GAN where:
 Successfully implemented image-to-image translation using cGAN.
 
 ## 👨‍💻 Author
-(Your Name)
+V DIVYA SRI
